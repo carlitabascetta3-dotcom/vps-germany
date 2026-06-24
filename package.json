@@ -1,0 +1,29 @@
+{
+  "name": "vps-germany",
+  "version": "1.0.0",
+  "description": "VPS Germany - Rating and comparison of VPS/VDS hosting providers in Germany",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlitabascetta3-dotcom/vps-germany.git"
+  },
+  "keywords": [
+    "vps",
+    "germany",
+    "hosting",
+    "vercel-analytics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlitabascetta3-dotcom/vps-germany/issues"
+  },
+  "homepage": "https://github.com/carlitabascetta3-dotcom/vps-germany#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
